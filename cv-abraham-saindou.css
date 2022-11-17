@@ -1,0 +1,22 @@
+.head {
+    background-color: turquoise;
+}
+#name {
+    text-align: left;
+}
+.infos {
+    text-align: right;
+}
+.main {
+    background-color: wheat;
+    
+}
+.tail {
+    background-color: turquoise;
+}
+.rightside{
+    text-align: right;
+}
+.langues {
+    text-align: right;
+}
