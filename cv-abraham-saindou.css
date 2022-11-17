@@ -1,5 +1,13 @@
+body {
+    font-family: sans-serif;
+}
 .head {
     background-color: turquoise;
+
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    margin-bottom: 15px;
 }
 #name {
     text-align: left;
@@ -9,10 +17,22 @@
 }
 .main {
     background-color: wheat;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
     
 }
 .tail {
     background-color: turquoise;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+}
+.flextail{
+    display: flex;
+
+    flex-direction: column;
 }
 .rightside{
     text-align: right;
