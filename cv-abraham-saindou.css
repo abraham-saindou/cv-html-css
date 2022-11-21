@@ -40,3 +40,7 @@ body {
 .langues {
     text-align: right;
 }
+.projects {
+    height: 30vh;
+    background-color: wheat;
+}
